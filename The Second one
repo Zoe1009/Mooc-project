@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CSS样式</title>	
+	<style type="text/css">
+		.table{
+			width: 300px;
+		}
+		.table .fir{
+			background-color: #3cc;
+			text-align: center;
+			font-size: 18px;
+			line-height: 3em;
+		}
+		.table .sec{
+			color: white;
+			background-color: black;
+			font-size: 12px;
+		}
+		a{
+			text-decoration: none;
+			color: white;
+		}
+		a:hover{
+			color: black;
+			background-color: white;
+		}
+
+	</style>
+</head>
+<body>
+	<div>
+		<table class="table" align="center">
+			<tr class="fir">
+				<th>外国最经典的文学名著</th>
+			</tr>
+			<tr class="sec">
+				<td>
+					<ol><a href="#">希腊神话——古希腊文明的瑰宝</a></ol>
+					<ol><a href="#">伊索寓言——一部经典的语言故事集</a></ol>
+					<ol><a href="#">荷马史诗——横亘千古的文学瑰宝</a></ol>
+					<ol><a href="#">俄狄浦斯王——古希腊悲剧的典范</a></ol>
+					<ol><a href="#">圣经——基督教的经典著作</a></ol>
+					<ol><a href="#">源氏物语——日本古典文学的瑰宝</a></ol>
+					<ol><a href="#">神曲——中世纪的伟大诗作</a></ol>
+					<ol><a href="#">十日谈——欧洲第一部现实主义小说</a></ol>
+					<ol><a href="#">列那狐的故事——法国伟大的民间长篇故事诗</a></ol>
+					<ol><a href="#">巨人传——一部荒诞不经的幽默小说</a></ol>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
