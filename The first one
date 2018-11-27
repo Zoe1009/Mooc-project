@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>诗词鉴赏</title>	
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	<div class="nav">
+		<div class="cont">
+			<div class="left">
+				<h1 class="h1">古诗文网</h1>
+			</div>
+			<div class="right">
+				<a href="html/tuijian.html">推荐</a>
+				<a href="#">诗文</a>
+				<a href="#">名句</a>
+				<a href="#">作者</a>
+				<a href="#">古籍</a>
+				<a href="#">收藏</a>		
+			</div>
+		</div>	
+	</div>
+
+	<div class="main">
+		<div class="left">
+			<div class="cont">
+				<h3 class="h1">洛姝真珠</h3>
+				<p class="p">真珠小娘下清廓，洛苑香风飞绰绰。<br>
+							 寒鬓斜钗玉燕光，高楼唱月敲悬珰。<br>
+							 兰风桂露洒幽翠，红弦袅云咽深思。<br>
+							 花袍白马不归来，浓蛾叠柳香唇醉。<br>
+							 金鹅屏风蜀山梦，鸾裾凤带行烟重。<br>
+							 八骢笼晃脸差移，日丝繁散曛罗洞。<br>
+							 市南曲陌无秋凉，楚腰卫鬓四时芳。<br>
+							 玉喉窱窱排空光，牵云曳雪留陆郎。
+				</p>
+			</div>
+
+			<div class="cont">
+				<h3 class="h1">景阳井</h3>
+				<p class="p">景阳宫井剩堪悲，不尽龙鸾誓死期。 <br>
+			   	   肠断吴王宫外水，浊泥犹得葬西施。
+				</p>
+			</div>
+
+			<div class="cont">
+				<h3 class="h1">送人赴安西</h3>
+				<p class="p">上马带吴钩，翩翩度陇头。<br>
+				   小来思报国，不是爱封侯。<br>
+				   万里乡为梦，三边月作愁。<br>
+				   早须清黠虏，无事莫经秋。<br>
+				</p>
+			</div>
+
+			<div class="cont">
+				<h3 class="h1">论诗三十首·其一</h3>
+				<p class="p">汉谣魏什久纷纭，正体无人与细论。<br>
+				   谁是诗中疏凿手？暂教泾渭各清浑。
+				</p>
+			</div>
+			<div class="cont">
+				<h3 class="h1">琴调相思引·送范殿监赴黄岗</h3>
+				<p class="p">终日怀归翻送客，春风祖席南城陌。便莫惜离觞频卷白。
+					<br>动管色，催行色；动管色，催行色。何处投鞍风雨夕？<br>
+					临水驿，空山驿；临水驿，空山驿。纵明月相思千里隔。<br>
+					梦咫尺，勤书尺；梦咫尺，勤书尺。
+				</p>
+			</div>
+			<div class="cont">
+				<h3 class="h1">喜韩少府见访</h3>
+				<p class="p">忽闻梅福来相访，笑着荷衣出草堂。<br>
+						     儿童不惯见车马，走入芦花深处藏。
+				</p>
+			</div>
+			
+			<div class="cont">
+				<h3 class="h1">天净沙·鲁卿庵中</h3>
+				<p class="p">青苔古木萧萧，苍云秋水迢迢。红叶山斋小小，有谁曾到？探梅人过溪桥。
+				</p>
+			</div>
+		</div>
+
+		<div class="right">
+			<img src="img/timg.jpg" width="100%" alt="主题" style="margin-top: 10px;">
+			<p class="p">诗词排行榜</p>
+			<ul class="li">
+				<li>1、将进酒——李白</li>
+				<li>2、水调歌头——苏轼</li>
+				<li>3、登幽州台歌——陈子昂</li>
+				<li>4、长恨歌——白居易</li>
+				<li>5、念奴娇·赤壁怀古——苏轼</li>
+				<li>6、虞美人——李煜</li>
+				<li>7、天净沙·秋思——马致远</li>
+				<li>8、离骚——屈原</li>
+				<li>9、静夜思——李白</li>
+				<li>10、短歌行——曹操</li>
+			</ul>
+			<img src="img/tim.jpg" width="100%">
+		</div>
+	</div>
+
+	<div class="footer">
+		<div style="float:left; margin-top:5px; margin-left:105px; color:#676767;">
+			<a href="#">|古诗文网|</a>
+			<a href="#">|免责声明|</a>
+			<a href="#">|意见箱|</a>
+			<a href="#">|纠错|</a>
+		</div>
+	</div>
+</body>
+</html>
